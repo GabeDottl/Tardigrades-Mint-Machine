@@ -1,10 +1,14 @@
-# Candy-Machine-Mint
+# Tardigrades-Machine-Mint
 
-The Candy-Machine-Mint project is designed to let users fork, customize, and deploy their own candy machine mint app to a custom domain, ultra fast.
+The Tardigrades-Minting-Machine project is designed is forked from candy mint machine project (see Git History).
+
+WTF is a candy-machine you ask? It’s a system for managing fair mint. (source: metaplex)
 
 A candy machine is an on-chain Solana program (or smart contract) for managing fair mint. Fair mints:
 * Start and finish at the same time for everyone.
 * Won't accept your funds if they're out of NFTs to sell.
+
+^Such cool infrastructure.
 
 The Candy-Machine-Mint project is meant to be as simple and usable as possible, accessible to everyone from long-time crypto devs to junior React devs with a vague interest in NFTs. Our goal is to empower users to create their own front ends to display, sell, and manage their NFTs as simply as possible by just updating a few styled components and following a well-documented process for setup and shipping.
 
